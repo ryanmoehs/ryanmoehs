@@ -1,7 +1,7 @@
 # ryanmoehs
 - 👋 Hi, I’m ryan
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Java
 - 💞️ Feel free to review or talk
 
 <!---
